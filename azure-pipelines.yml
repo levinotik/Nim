@@ -3,6 +3,7 @@ trigger:
     include:
     - 'devel'
     - 'version-*'
+    - 'v20-*'
 pr:
   branches:
     include:
